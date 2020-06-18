@@ -1,0 +1,27 @@
+{
+  "name": "ApiRestNode-Express",
+  "version": "1.0.0",
+  "description": "Simple REST API in NodeJS and Expres",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wesleysilva059/ApiRestNode-Express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wesleysilva059/ApiRestNode-Express/issues"
+  },
+  "homepage": "https://github.com/wesleysilva059/ApiRestNode-Express#readme",
+  "dependencies": {
+    "debug": "^4.1.1",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.2",
+    "serve-index": "^1.9.1"
+  }
+}
